@@ -8,10 +8,10 @@ export default function Dashboard (){
         { name: "Refunded", value: 2 }
     ]
     return (
-        <div>
-            <h1 className="text-3xl font-bold mb-6">Dashboard</h1>
+        <div className="space-y-6">
+            <h1 className="text-3xl font-bold">Dashboard</h1>
 
-            <div className="grid grid-cols-4 gap-4 mb-6">
+            <div className="grid grid-cols-4 gap-4 ">
                 <div className="bg-blue-500 p-4 rounded-lg">Revenue</div>
                 <div className="bg-purple-500 p-4 rounded-lg">Orders</div>
                 <div className="bg-green-500 p-4 rounded-lg">Customers</div>
