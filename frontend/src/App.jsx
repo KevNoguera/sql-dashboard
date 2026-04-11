@@ -13,7 +13,7 @@ export default function App() {
 
         <aside className="w-64 bg-slate-800 p-6">
           <h1 className="text-2xl font-bold mb-6">
-            SQL Dashboard
+            SQL-Dashboard 
           </h1>
 
           <nav className="space-y-3">
