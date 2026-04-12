@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
-
+import './index.css'
 import Dashboard from "./pages/Dashboard"
 import Orders from "./pages/Orders"
 import Reports from "./pages/Reports"
